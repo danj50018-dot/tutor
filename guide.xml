@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.6.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.sky.com.br</url>
+  </channel>
+  <channel id="Globo">
+    <display-name lang="pt">Globo</display-name>
+    <url>http://www.sky.com.br</url>
+  </channel>
+  <channel id="Globo FHD">
+    <display-name lang="pt">Globo FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MEGAPIX">
+    <display-name lang="pt">MEGAPIX</display-name>
+    <url>http://www.sky.com.br</url>
+  </channel>
+  <programme start="20261019220000 -0300" stop="20261020000000 -0300" channel="Globo FHD">
+    <title lang="pt">Jornal Das Dez - Ao Vivo</title>
+  </programme>
+</tv>
